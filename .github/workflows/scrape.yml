@@ -1,42 +1,65 @@
-name: Scrape DRM Keys
+name: Extract MHDTVP Channels & Generate M3U
 
 on:
   schedule:
+    # Run every 6 hours
     - cron: '0 */1 * * *'
-  workflow_dispatch:
+  workflow_dispatch: # Allow manual trigger
 
 permissions:
   contents: write
 
 jobs:
-  scrape:
+  extract:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+
     steps:
-      - name: Checkout repo
+      - name: 📥 Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          python-version: '3.12'
+          node-version: '20'
 
-      - name: Install deps
-        run: pip install requests
+      - name: 🕷️ Run channel extraction
+        env:
+          MHDTVP_EMAIL: ${{ secrets.MHDTVP_EMAIL || 'heyisig826@nexafilm.com' }}
+          MHDTVP_PASSWORD: ${{ secrets.MHDTVP_PASSWORD || '1111111111' }}
+          OUTPUT_JSON: output/channels.json
+        run: node scripts/extract_channels.js --discover
 
-      - name: Run scraper
-        run: python drm-scraper/scrape.py drm-scraper/mhdtvp_keys.json
+      - name: 📋 Generate M3U playlist
+        run: node scripts/generate_m3u.mjs output/channels.json output/mhdtvp.m3u
 
-      - name: Upload artifact
+      - name: 📤 Upload M3U artifact
         uses: actions/upload-artifact@v4
         with:
-          name: drm-keys-${{ github.run_number }}
-          path: drm-scraper/mhdtvp_keys.json
+          name: mhdtvp-playlist
+          path: output/mhdtvp.m3u
           retention-days: 30
 
-      - name: Commit updated keys
+      - name: 📤 Upload JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mhdtvp-channels-json
+          path: output/channels.json
+          retention-days: 30
+
+      - name: 💾 Commit & push results
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add drm-scraper/mhdtvp_keys.json
-          git diff --cached --quiet || git commit -m "chore: update drm keys [skip ci]"
-          git push
+          mkdir -p dist
+          cp output/mhdtvp.m3u   dist/mhdtvp.m3u
+          cp output/channels.json dist/channels.json
+          git add dist/mhdtvp.m3u dist/channels.json
+          if git diff --cached --quiet; then
+            echo "✅ No changes to commit"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+            git commit -m "🔄 Update channels & M3U — ${TIMESTAMP}"
+            git push
+            echo "✅ Committed and pushed updated files"
+          fi
