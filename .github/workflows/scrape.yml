@@ -1,0 +1,42 @@
+name: Scrape DRM Keys
+
+on:
+  schedule:
+    - cron: '0 */0.5 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run scraper
+        run: python drm-scraper/scrape.py drm-scraper/mhdtvp_keys.json
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: drm-keys-${{ github.run_number }}
+          path: drm-scraper/mhdtvp_keys.json
+          retention-days: 30
+
+      - name: Commit updated keys
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add drm-scraper/mhdtvp_keys.json
+          git diff --cached --quiet || git commit -m "chore: update drm keys [skip ci]"
+          git push
