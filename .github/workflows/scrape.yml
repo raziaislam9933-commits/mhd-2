@@ -31,7 +31,7 @@ jobs:
         run: node scripts/extract_channels.js --discover
 
       - name: 📋 Generate M3U playlist
-        run: node scripts/generate_m3u.mjs output/channels.json output/mhdtvp.m3u
+        run: node scripts/generate_m3u.js output/channels.json output/mhdtvp.m3u
 
       - name: 📤 Upload M3U artifact
         uses: actions/upload-artifact@v4
