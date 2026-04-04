@@ -1,12 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:bf4a5c832ba137a31310a5f4f3870cce
-#KEY:50a644fbe5f123ebf74454c272766861
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/zsoj3odnee/out/v1/c952c04aa15d47eba29b175c89afb90c/cenc.mpd
+#KID:f9bf2fc5edef8f9c01b2d080645fa06f
+#KEY:37ef689ddf8619259b02368d2b538b86
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gkte6ghqa9/out/v1/70f3278bc2bc4fdaaf07715fe5bd10bc/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-https://ru-001.local-honduras-center.sbs/secure/api/v1/lchd-fs501.m3u8
+https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS1HD1500.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="MHDTV Live",Bundesliga 2
 #KID:0b42be2664d7e811d04f3e504e0924c5
@@ -46,9 +46,9 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/k2699dsdaw/out/v1
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live England
-#KID:5466ebd70704bdeb657f0abf3c5ca4ef
-#KEY:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
+#KID:294b5761cefc22d0c6312939e13d8278
+#KEY:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live Spain
 #KID:d9623774ac5c8c351aafe97c5fe70267
