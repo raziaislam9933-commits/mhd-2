@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:242a0612eb2cf817fa69cd18ee140450
-#KEY:bef3f38b21b088a7f0644b5169fcfcae
-https:\/\/otte.cache.aiv-cdn.net\/bom-nitro\/live\/clients\/dash\/enc\/tug1yvvlko\/out\/v1\/809fadb196f043b8988ac1505100a204\/cenc.mpd
+#KID:baddc3119d7cab50853adf9d2299d961
+#KEY:adfcc1f4fbc3bcbe56a8fc0c31921922
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gw0wf3rp71/out/v1/21f066e10b854c9fa0c99c9c5d881836/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
 https://ott-nettv-02.nettv.com.np/iptvsports/netSTARSPORTS1HD1500.stream/playlist.m3u8

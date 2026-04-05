@@ -5,9 +5,9 @@
     "id": 58,
     "watch_url": "https://mhdtvp.com/livetv/watch/live-1/58",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69c79d0c4b09b",
-    "mpd_url": "https:\\/\\/otte.cache.aiv-cdn.net\\/bom-nitro\\/live\\/clients\\/dash\\/enc\\/tug1yvvlko\\/out\\/v1\\/809fadb196f043b8988ac1505100a204\\/cenc.mpd",
-    "kid": "242a0612eb2cf817fa69cd18ee140450",
-    "key": "bef3f38b21b088a7f0644b5169fcfcae",
+    "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/gw0wf3rp71/out/v1/21f066e10b854c9fa0c99c9c5d881836/cenc.mpd",
+    "kid": "baddc3119d7cab50853adf9d2299d961",
+    "key": "adfcc1f4fbc3bcbe56a8fc0c31921922",
     "stream_url": null,
     "stream_type": "DASH/MPD (ClearKey)"
   },
