@@ -17,9 +17,9 @@
     "id": 57,
     "watch_url": "https://mhdtvp.com/livetv/watch/live-1/57",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69c63f8a1be7e",
-    "mpd_url": "https://dice-live-oc.akamaized.net/hdntl=exp=1775457122~acl=/*~id=91f1dc12-2598-494a-af7f-79d9f02b7e18~data=hdntl,aXA9MzguMTM3LjMyLjI0MiZleHA9MTc3NTM3MDc1MSZlaWQ9ODM3OTE3Jm9pZD0yMiZ0eXBlPVZPRCZ1aWQ9bnVsbCZjaWQ9bnVsbCZwdD1udWxs~hmac=b7fd614ab4b3b99220fa8917336b8005100fbf5b69242135fbeea9504eb8b594/dash/live/2093733/219027-313800/manifest-d.mpd",
-    "kid": "708a98b352bd4418a73a028edd84da8f",
-    "key": "b1fa5c2bca4c4b57b924b748564532cb",
+    "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd",
+    "kid": "b83f5ca011de1ebfd8a121c84961ca01",
+    "key": "609ca477cab538803f2a4289f7e55c24",
     "stream_url": null,
     "stream_type": "DASH/MPD (ClearKey)"
   },
