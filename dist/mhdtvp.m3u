@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:da72912e65cf1077a732616c17c9943d
-#KEY:65374c514729172b57bc243897078f91
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/oes6ybfnm1/out/v1/9f29cb13a8f04ad38bfe900a18d0ed35/cenc.mpd
+#KID:b83f5ca011de1ebfd8a121c84961ca01
+#KEY:609ca477cab538803f2a4289f7e55c24
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/a9iwtyobtf/out/v1/33819872fdbc4f17af37383b78ee70a4/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
 #KID:708a98b352bd4418a73a028edd84da8f
@@ -38,9 +38,9 @@ https://mhdtvp.com/livetv/watch/nagorik-tv/51
 https://mhdtvp.com/livetv/watch/t-sports/50
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
-#KID:55722a2e6d8dd9f8fa7ba665e508cf78
-#KEY:cd9e3e681a273ce4b82af86e85772b80
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/egzri6ewen/out/v1/624fcfd9bb744b8c8b3338dec50d4f5a/cenc.mpd
+#KID:837843d1228803337dea37c6568b8b18
+#KEY:43c6d2482a66e35b4a58a3b829bd478d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/rfoilgcdup/out/v1/efe78ac7de4441c98ca799052cf962bc/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
 #KID:290e09c837da78d5cd961978d390515c
