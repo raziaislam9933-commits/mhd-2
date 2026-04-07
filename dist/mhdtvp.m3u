@@ -58,9 +58,9 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c3
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch live Germany
-#KID:11223344556677889900112233445566
-#KEY:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+#KID:294b5761cefc22d0c6312939e13d8278
+#KEY:52148f1042d238849f0a7813f1da8a7b
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSG 2
 https://bbb.exoadash.com/TVD2709/index.mpd
