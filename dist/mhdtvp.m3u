@@ -48,24 +48,24 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live England
-#KID:6ea0a1636cbc92fb324f74adeefdcdce
-#KEY:6fe9913a6c33d92a658fd3a33413bf75
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/kzfvkfonrc/out/v1/3d2994f3d9c64fe5bb68338a540af489/cenc.mpd
-
-#EXTINF:-1 group-title="MHDTV Live",Watch Live Spain
-#KID:36e8cbbdffc40708f01095591b7c53a6
-#KEY:078d543be20fe4769221f5afb3ecf195
-https://abgqhfdaaaaaaaammgbgkps323cuq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/tr85qesyaa/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
-
-#EXTINF:-1 group-title="MHDTV Live",Watch live Germany
 #KID:294b5761cefc22d0c6312939e13d8278
 #KEY:52148f1042d238849f0a7813f1da8a7b
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#EXTINF:-1 group-title="MHDTV Live",Watch Live Spain
+#KID:19ddf4e42f18bfc3c71c57af73949b17
+#KEY:e8f8f994d08cadb95fe1e29027214d21
+https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ebyufuwrml/out/v1/8e4dbe981d574983a5a0c96b874cc5b9/cenc.mpd
+
+#EXTINF:-1 group-title="MHDTV Live",Watch live Germany
+#KID:f288380ca4cef9ad3f27a92a08e9bb8b
+#KEY:9f18d26291d9230833501f7f822f6875
+https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSG 2
-#KID:73307447c35177a8acc3e8a42aa2516d
-#KEY:63a3ec36d4bdb812e41e74f132c5ff2f
-https://abgqhfdaaaaaaaameyaqykf5zy3tq.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/qxprlxa3hc/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
+#KID:99fc44aa47210c6c3b0c1a199492b070
+#KEY:0c13d95fdabafa0efc1e5627937e9989
+https://abkv2pxaaaaaaaamlfvqlljfjz5f7.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/7bssxijr6b/out/v1/0a5fbcc3fc124cf9b996201087a58b2f/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live Arsenal
 #KID:4845269a629b1d40df874cd426cc8b33
