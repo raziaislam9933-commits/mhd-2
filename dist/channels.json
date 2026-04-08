@@ -185,11 +185,10 @@
     "id": 42,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-arsenal/42",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69b9b484d9047",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://abkv2pxaaaaaaaamce3sv5at36n7y.ta.bia-cf.live.pv-cdn.net/gru-nitro/live/clients/dash/enc/fmwriyzuav/out/v1/b3588cbd51284a0bae4bf28e325925b8/cenc.mpd",
+    "kid": "4845269a629b1d40df874cd426cc8b33",
+    "key": "1d5c0a426a6f43e112a32d4fc1fb0445",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   }
 ]
