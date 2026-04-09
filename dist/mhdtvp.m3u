@@ -38,9 +38,9 @@ https://mhdtvp.com/livetv/watch/nagorik-tv/51
 https://mhdtvp.com/livetv/watch/t-sports/50
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
-#KID:ca51cb28be87c612f1f84dcb57a309cd
-#KEY:95f2759705faf50a7a3412b34552d027
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd
+#KID:f5cab7a592b0a1070a1c32a2938c7924
+#KEY:603a99d6a4a274d6c11ada91176c4477
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
 #KID:290e09c837da78d5cd961978d390515c

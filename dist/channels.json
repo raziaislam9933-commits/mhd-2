@@ -113,9 +113,9 @@
     "id": 49,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69b9923a702a4",
-    "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash-sd/enc/wmonycspak/out/v1/7e671a59cb3c4e45913a89ae3d759943/cenc-sd.mpd",
-    "kid": "ca51cb28be87c612f1f84dcb57a309cd",
-    "key": "95f2759705faf50a7a3412b34552d027",
+    "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd",
+    "kid": "f5cab7a592b0a1070a1c32a2938c7924",
+    "key": "603a99d6a4a274d6c11ada91176c4477",
     "stream_url": null,
     "stream_type": "DASH/MPD (ClearKey)"
   },
