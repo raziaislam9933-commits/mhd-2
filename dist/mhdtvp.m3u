@@ -6,9 +6,9 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bfbdrvbuq1/out/v1/c5d559db7b324817b6fe159c723febaf/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:dd06ecf8f97a4526ba6a4b55e00f931a
-#KEY:2b8648806e203a44adc5fb1326770c17
-https://foxteldashlive01.akamaized.net/live/channel091/channel091_mcs.isml/playlist_high.mpd?cm=yes&amp;amp;hdnts=exp=1775763306~hmac=074a780b3f1f956b9e043622f3ab3c993fe2e62d59da5df9f71356225b7b9239
+#KID:9a29d4f3b6e540b3aa2f36927c01b6f4
+#KEY:57b670b45b5cb453a9f48fa975b702c1
+https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Bundesliga 2
 #KID:0b42be2664d7e811d04f3e504e0924c5
