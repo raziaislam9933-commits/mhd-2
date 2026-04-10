@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:8eeab0f1dd4f47f2afaefd70680d7213
-#KEY:9d2b3ec2dc612d7d7d21d4ebbb4c93c5
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/bfbdrvbuq1/out/v1/c5d559db7b324817b6fe159c723febaf/cenc.mpd
+#KID:3813110878620e2085a6ce8c65154a67
+#KEY:8d7ed0389021ee3aa4e87e7aaeb3b5a0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/hkosbvm6yg/out/v1/94f33099d3184ce4b22377e4e4e33d91/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
 #KID:9a29d4f3b6e540b3aa2f36927c01b6f4
 #KEY:57b670b45b5cb453a9f48fa975b702c1
-https://bks02.starhubgo.com/bpk-token/1aa@3nfwbabsvygaetxh2umackmdasplrnai3pch1oba/bpk-tv/HubSports4HDnew/output/manifest.mpd
+https://bks02.starhubgo.com/bpk-token/1aa@ebywdk0ca1oijmczh2yt1qnhu2jaw3qsed5hzeca/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Bundesliga 2
 #KID:0b42be2664d7e811d04f3e504e0924c5
@@ -38,9 +38,9 @@ https://mhdtvp.com/livetv/watch/nagorik-tv/51
 https://mhdtvp.com/livetv/watch/t-sports/50
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
-#KID:5fef21ea908ec6a5f25f024a11c75169
-#KEY:4e09cb683c26a835450ccc0d53f3bb7e
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/0tp7s9nhbb/out/v1/3baa6e7bb60247bea92db2230b60585f/cenc.mpd
+#KID:f5cab7a592b0a1070a1c32a2938c7924
+#KEY:603a99d6a4a274d6c11ada91176c4477
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
 #KID:290e09c837da78d5cd961978d390515c
