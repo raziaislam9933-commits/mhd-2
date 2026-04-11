@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:06c474083954369b65c9b6764eeeb3a3
-#KEY:c041952cd342b4ea84bd5865423b8585
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h0j1lnfwdz/out/v1/4843137de5e74380962b3e8d8d78e061/cenc.mpd
+#KID:9a29d4f3b6e540b3aa2f36927c01b6f4
+#KEY:57b670b45b5cb453a9f48fa975b702c1
+https://sh-bks400-08.starhubgo.com/bpk-token/1aa@joovm5f2zvs3h3zyttaif2kz4lttlf1pjev3djca/bpk-tv/HubSports4HDnew/output/manifest.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
 #KID:9a29d4f3b6e540b3aa2f36927c01b6f4
