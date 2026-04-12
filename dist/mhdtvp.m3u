@@ -1,14 +1,14 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:aefc2c8d1c8840f1b6981f856c9269ba
-#KEY:cf8ea114c45b4d6596b2748258ab74d6
-https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093749/219026-314033/manifest-d.mpd
+#KID:ec31e8a0ed9597f6e7f9732ce4e7c88c
+#KEY:169e244c2c08a4de6e274a5c8ea9f619
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nze1joywnu/out/v1/d626ba5f1a07483b8c6d10372911dd19/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:14d1d427e8144c7b80cd5a8a6b9aa5e3
-#KEY:b3992507b4df8956717e3d5d798b7ab0
-https://mh-bks400-07.starhubgo.com/bpk-token/1ac@p0t4glybp01mrxrbbzffnh3nwyt4uxzcpucdf4ba/bpk-tv/HubSports5HD/output/manifest.mpd
+#KID:2e2636daa74141b68cc14882ea3ff82b
+#KEY:0961f48287324adbb4b7ff3c9d82b3c9
+https://dice-live-oc.akamaized.net/hdntl=exp=1776067493~acl=%2f*~id=ddf19d4c-e79e-43fa-ac60-93421ab352f6~data=hdntl,aXA9NjUuMS45Mi4yMjImZXhwPTE3NzU5ODExMjMmZWlkPTgzNzkxNyZvaWQ9MjImdHlwZT1WT0QmdWlkPW51bGwmY2lkPW51bGwmcHQ9bnVsbA~hmac=857b1e7c88c1b3b67c44f918f41093f1f80f29822e34031873baceadb9a73496/dash/live/2093734/219028-313801/manifest-d.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Bundesliga 2
 #KID:0b42be2664d7e811d04f3e504e0924c5
@@ -38,9 +38,9 @@ https://mhdtvp.com/livetv/watch/nagorik-tv/51
 https://mhdtvp.com/livetv/watch/t-sports/50
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
-#KID:f5cab7a592b0a1070a1c32a2938c7924
-#KEY:603a99d6a4a274d6c11ada91176c4477
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/vfnpphnva3/out/v1/f397e353e67b40b390a76cb46ce4776e/cenc.mpd
+#KID:502165ec1d126b0e5e510442638bb95d
+#KEY:e35e2840e2f7575054bff19993be7ed0
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ukkueppmq2/out/v1/7d50b4591e4f4cf9806ce9f13309adad/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
 #KID:290e09c837da78d5cd961978d390515c
