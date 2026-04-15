@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
-#KID:4d187872df30a9360f639da8903fde73
-#KEY:1c3fbee6fee104e18fa65c1c75fae42c
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/9csh3lm5hi/out/v1/115c36157e1243bba41d120bd298dbf5/cenc.mpd
+#KID:1d6d9c164f50d0c058c38ea2574b55ab
+#KEY:007b6b520787fcc78a6a56fd6a149df2
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/8kgmavmivc/out/v1/394cc62641f1452bb1f5919a9114a57a/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Live 1
 #KID:2e2636daa74141b68cc14882ea3ff82b
