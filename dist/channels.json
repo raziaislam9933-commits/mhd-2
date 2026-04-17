@@ -141,11 +141,12 @@
     "id": 47,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-england/47",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69b0764d1ee46",
-    "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd",
-    "kid": "56b79c1782b30e6b6fc973b0e8fd4104",
-    "key": "fa38aaa865a57eda7c77444697ba8ed3",
+    "mpd_url": null,
+    "kid": null,
+    "key": null,
     "stream_url": null,
-    "stream_type": "DASH/MPD (ClearKey)"
+    "stream_type": null,
+    "error": "Decryption failed"
   },
   {
     "name": "Watch Live Spain",
@@ -153,11 +154,12 @@
     "id": 46,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-spain/46",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69b0595b48e1a",
-    "mpd_url": "https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd",
-    "kid": "11223344556677889900112233445566",
-    "key": "4b80724d0ef86bcb2c21f7999d67739d",
+    "mpd_url": null,
+    "kid": null,
+    "key": null,
     "stream_url": null,
-    "stream_type": "DASH/MPD (ClearKey)"
+    "stream_type": null,
+    "error": "Decryption failed"
   },
   {
     "name": "Watch live Germany",
@@ -165,9 +167,9 @@
     "id": 44,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-germany/44",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69a98b330e4fd",
-    "mpd_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd",
-    "kid": "ce7ab3022e753307997f58afe001bac4",
-    "key": "72d631a66e635c60829a0fe7705516c1",
+    "mpd_url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "kid": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247",
     "stream_url": null,
     "stream_type": "DASH/MPD (ClearKey)"
   },

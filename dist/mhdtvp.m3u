@@ -44,19 +44,15 @@ https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c3
 https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live England
-#KID:56b79c1782b30e6b6fc973b0e8fd4104
-#KEY:fa38aaa865a57eda7c77444697ba8ed3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/nelfyucw9a/out/v1/6ffb2c365ad14f88b154591beb43d1f6/cenc.mpd
+https://mhdtvp.com/livetv/watch/watch-live-england/47
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live Spain
-#KID:11223344556677889900112233445566
-#KEY:4b80724d0ef86bcb2c21f7999d67739d
-https://dash2.antik.sk/stream/nvidia_sport2/playlist_cenc.mpd
+https://mhdtvp.com/livetv/watch/watch-live-spain/46
 
 #EXTINF:-1 group-title="MHDTV Live",Watch live Germany
-#KID:ce7ab3022e753307997f58afe001bac4
-#KEY:72d631a66e635c60829a0fe7705516c1
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd
+#KID:290e09c837da78d5cd961978d390515c
+#KEY:b748836c71e6a4ca68ef5b5652db6247
+https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSG 2
 https://bbb.exoadash.com/TVD2700/index.mpd
