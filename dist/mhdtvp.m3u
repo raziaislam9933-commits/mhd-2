@@ -55,7 +55,9 @@ https://mhdtvp.com/livetv/watch/watch-live-spain/46
 https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSG 2
-https://bbb.exoadash.com/TVD2700/index.mpd
+#KID:34475edab991ad5e92548aebd710410a
+#KEY:501b209cccd323ac00bf5ac15b406cb4
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live Arsenal
 #KID:1d96ab366bbe6451edf7407b58e2fa16

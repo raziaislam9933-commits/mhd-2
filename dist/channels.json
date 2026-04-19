@@ -179,9 +179,9 @@
     "id": 43,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psg-2/43",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69ab2ed73ba4a",
-    "mpd_url": "https://bbb.exoadash.com/TVD2700/index.mpd",
-    "kid": "0",
-    "key": "0",
+    "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+    "kid": "34475edab991ad5e92548aebd710410a",
+    "key": "501b209cccd323ac00bf5ac15b406cb4",
     "stream_url": null,
     "stream_type": "DASH/MPD (ClearKey)"
   },
