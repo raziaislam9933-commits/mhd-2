@@ -31,12 +31,11 @@
     "id": 56,
     "watch_url": "https://mhdtvp.com/livetv/watch/bundesliga-2/56",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=68d8e6667a269",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
+    "kid": "0b42be2664d7e811d04f3e504e0924c5",
+    "key": "ae24090123b8c72ac5404dc152847cb8",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "Bundesliga",
@@ -44,12 +43,11 @@
     "id": 55,
     "watch_url": "https://mhdtvp.com/livetv/watch/bundesliga/55",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69a46588a553c",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "Tnt https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+    "kid": "1d96ab366bbe6451edf7407b58e2fa16",
+    "key": "0116201f4a63ac5bf5787d2c610c41a7",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "Serie A 2",
@@ -57,12 +55,11 @@
     "id": 54,
     "watch_url": "https://mhdtvp.com/livetv/watch/serie-a-2/54",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=68d8e6667a25c",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+    "kid": "7995c724a13748ed970840a8ab5bb9b3",
+    "key": "67bdaf1e2175b9ff682fcdf0e2354b1e",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "Serie A",
@@ -70,12 +67,11 @@
     "id": 53,
     "watch_url": "https://mhdtvp.com/livetv/watch/serie-a/53",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=6994cbaea5243",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+    "kid": "d1a163914db8ffad2c3e94f979896a0d",
+    "key": "9728800a3959aafdd5b0bcfbf3768811",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "T Sports",
@@ -121,12 +117,11 @@
     "id": 49,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psl/49",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=682adc5bb3d75",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd",
+    "kid": "294b5761cefc22d0c6312939e13d8278",
+    "key": "52148f1042d238849f0a7813f1da8a7b",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "Watch Live PSL",
@@ -134,12 +129,11 @@
     "id": 48,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=682adbdb66bf7",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+    "kid": "f288380ca4cef9ad3f27a92a08e9bb8b",
+    "key": "9f18d26291d9230833501f7f822f6875",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "Watch Live England",
@@ -173,12 +167,11 @@
     "id": 44,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-germany/44",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69a98b330e4fd",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
+    "kid": "290e09c837da78d5cd961978d390515c",
+    "key": "b748836c71e6a4ca68ef5b5652db6247",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "Watch Live PSG 2",
@@ -186,12 +179,11 @@
     "id": 43,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psg-2/43",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69ab2ed73ba4a",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd",
+    "kid": "34475edab991ad5e92548aebd710410a",
+    "key": "501b209cccd323ac00bf5ac15b406cb4",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "Watch Live Arsenal",
@@ -199,11 +191,10 @@
     "id": 42,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-arsenal/42",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=682adcaf6df79",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
+    "kid": "1d96ab366bbe6451edf7407b58e2fa16",
+    "key": "0116201f4a63ac5bf5787d2c610c41a7",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   }
 ]
