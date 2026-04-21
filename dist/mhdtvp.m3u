@@ -7,24 +7,16 @@ https://mhdtvp.com/livetv/watch/live-1/58
 https://mhdtvp.com/livetv/watch/live-1/57
 
 #EXTINF:-1 group-title="MHDTV Live",Bundesliga 2
-#KID:0b42be2664d7e811d04f3e504e0924c5
-#KEY:ae24090123b8c72ac5404dc152847cb8
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd
+https://mhdtvp.com/livetv/watch/bundesliga-2/56
 
 #EXTINF:-1 group-title="MHDTV Live",Bundesliga
-#KID:1d96ab366bbe6451edf7407b58e2fa16
-#KEY:0116201f4a63ac5bf5787d2c610c41a7
-Tnt https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://mhdtvp.com/livetv/watch/bundesliga/55
 
 #EXTINF:-1 group-title="MHDTV Live",Serie A 2
-#KID:7995c724a13748ed970840a8ab5bb9b3
-#KEY:67bdaf1e2175b9ff682fcdf0e2354b1e
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+https://mhdtvp.com/livetv/watch/serie-a-2/54
 
 #EXTINF:-1 group-title="MHDTV Live",Serie A
-#KID:d1a163914db8ffad2c3e94f979896a0d
-#KEY:9728800a3959aafdd5b0bcfbf3768811
-https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
+https://mhdtvp.com/livetv/watch/serie-a/53
 
 #EXTINF:-1 group-title="MHDTV Live",T Sports
 https://mhdtvp.com/livetv/watch/t-sports/52
@@ -36,14 +28,10 @@ https://mhdtvp.com/livetv/watch/nagorik-tv/51
 https://mhdtvp.com/livetv/watch/t-sports/50
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
-#KID:294b5761cefc22d0c6312939e13d8278
-#KEY:52148f1042d238849f0a7813f1da8a7b
-https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/cllekigzzn/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+https://mhdtvp.com/livetv/watch/watch-live-psl/49
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSL
-#KID:f288380ca4cef9ad3f27a92a08e9bb8b
-#KEY:9f18d26291d9230833501f7f822f6875
-https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/fb6jy4pxts/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+https://mhdtvp.com/livetv/watch/watch-live-psl/48
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live England
 https://mhdtvp.com/livetv/watch/watch-live-england/47
@@ -52,16 +40,10 @@ https://mhdtvp.com/livetv/watch/watch-live-england/47
 https://mhdtvp.com/livetv/watch/watch-live-spain/46
 
 #EXTINF:-1 group-title="MHDTV Live",Watch live Germany
-#KID:290e09c837da78d5cd961978d390515c
-#KEY:b748836c71e6a4ca68ef5b5652db6247
-https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd
+https://mhdtvp.com/livetv/watch/watch-live-germany/44
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live PSG 2
-#KID:34475edab991ad5e92548aebd710410a
-#KEY:501b209cccd323ac00bf5ac15b406cb4
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
+https://mhdtvp.com/livetv/watch/watch-live-psg-2/43
 
 #EXTINF:-1 group-title="MHDTV Live",Watch Live Arsenal
-#KID:1d96ab366bbe6451edf7407b58e2fa16
-#KEY:0116201f4a63ac5bf5787d2c610c41a7
-https://otte.cache.aiv-cdn.net/syd-nitro/live/dash/enc/5sxuux529k/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+https://mhdtvp.com/livetv/watch/watch-live-arsenal/42
