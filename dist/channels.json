@@ -67,12 +67,11 @@
     "id": 53,
     "watch_url": "https://mhdtvp.com/livetv/watch/serie-a/53",
     "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=6994cbaea5243",
-    "mpd_url": null,
-    "kid": null,
-    "key": null,
+    "mpd_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd",
+    "kid": "d1a163914db8ffad2c3e94f979896a0d",
+    "key": "9728800a3959aafdd5b0bcfbf3768811",
     "stream_url": null,
-    "stream_type": null,
-    "error": "Decryption failed"
+    "stream_type": "DASH/MPD (ClearKey)"
   },
   {
     "name": "T Sports",

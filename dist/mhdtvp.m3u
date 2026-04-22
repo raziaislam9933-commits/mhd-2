@@ -22,7 +22,9 @@ Tnt https://live-pv-ta.amazon.fastly-edge.com/lhr-nitro/live/dash/enc/5sxuux529k
 https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",Serie A
-https://mhdtvp.com/livetv/watch/serie-a/53
+#KID:d1a163914db8ffad2c3e94f979896a0d
+#KEY:9728800a3959aafdd5b0bcfbf3768811
+https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/vkpoljjpkj/out/v1/502bcf68b3514cd28a220e6f0a43816f/cenc.mpd
 
 #EXTINF:-1 group-title="MHDTV Live",T Sports
 https://mhdtvp.com/livetv/watch/t-sports/52
