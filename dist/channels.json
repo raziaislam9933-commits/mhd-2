@@ -30,12 +30,13 @@
     "slug": "bundesliga-2",
     "id": 56,
     "watch_url": "https://mhdtvp.com/livetv/watch/bundesliga-2/56",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=68d8e6667a269",
-    "mpd_url": "https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/8m8cd46i1t/out/v1/83985c68e4174e90a58a1f2c024be4c9/cenc.mpd",
-    "kid": "0b42be2664d7e811d04f3e504e0924c5",
-    "key": "ae24090123b8c72ac5404dc152847cb8",
+    "iframe_url": null,
+    "mpd_url": null,
+    "kid": null,
+    "key": null,
     "stream_url": null,
-    "stream_type": "DASH/MPD (ClearKey)"
+    "stream_type": null,
+    "error": "Timeout: https://mhdtvp.com/livetv/watch/bundesliga-2/56"
   },
   {
     "name": "Bundesliga",
