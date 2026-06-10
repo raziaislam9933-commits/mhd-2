@@ -166,12 +166,13 @@
     "slug": "watch-live-germany",
     "id": 44,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-germany/44",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69a98b330e4fd",
-    "mpd_url": "https://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/tll6uwepxa/out/v1/a7f67cbb33df46539312956427343886/cenc.mpd",
-    "kid": "290e09c837da78d5cd961978d390515c",
-    "key": "b748836c71e6a4ca68ef5b5652db6247",
+    "iframe_url": null,
+    "mpd_url": null,
+    "kid": null,
+    "key": null,
     "stream_url": null,
-    "stream_type": "DASH/MPD (ClearKey)"
+    "stream_type": null,
+    "error": "HTTP 500"
   },
   {
     "name": "Watch Live PSG 2",
