@@ -95,13 +95,12 @@
     "slug": "nagorik-tv",
     "id": 51,
     "watch_url": "https://mhdtvp.com/livetv/watch/nagorik-tv/51",
-    "iframe_url": null,
+    "iframe_url": "https://cricrex.live/live/tsportsx.php",
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
-    "stream_type": null,
-    "error": "Timeout: https://mhdtvp.com/livetv/watch/nagorik-tv/51"
+    "stream_type": "External iframe"
   },
   {
     "name": "T Sports",
