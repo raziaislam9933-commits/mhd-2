@@ -198,12 +198,12 @@
     "slug": "watch-live-arsenal",
     "id": 42,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-arsenal/42",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=682adcaf6df79",
+    "iframe_url": null,
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Decryption failed"
+    "error": "Timeout: https://mhdtvp.com/livetv/watch/watch-live-arsenal/42"
   }
 ]
