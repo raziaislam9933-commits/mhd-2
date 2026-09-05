@@ -133,13 +133,13 @@
     "slug": "watch-live-psl",
     "id": 48,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48",
-    "iframe_url": null,
+    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=682adbdb66bf7",
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Timeout: https://mhdtvp.com/livetv/watch/watch-live-psl/48"
+    "error": "Decryption failed"
   },
   {
     "name": "Watch Live England",
