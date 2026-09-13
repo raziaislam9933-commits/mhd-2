@@ -133,77 +133,77 @@
     "slug": "watch-live-psl",
     "id": 48,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psl/48",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=682adbdb66bf7",
+    "iframe_url": null,
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Decryption failed"
+    "error": "HTTP 520"
   },
   {
     "name": "Watch Live England",
     "slug": "watch-live-england",
     "id": 47,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-england/47",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69b0764d1ee46",
+    "iframe_url": null,
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Decryption failed"
+    "error": "HTTP 525"
   },
   {
     "name": "Watch Live Spain",
     "slug": "watch-live-spain",
     "id": 46,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-spain/46",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69b0595b48e1a",
+    "iframe_url": null,
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Decryption failed"
+    "error": "HTTP 525"
   },
   {
     "name": "Watch live Germany",
     "slug": "watch-live-germany",
     "id": 44,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-germany/44",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69a98b330e4fd",
+    "iframe_url": null,
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Decryption failed"
+    "error": "HTTP 525"
   },
   {
     "name": "Watch Live PSG 2",
     "slug": "watch-live-psg-2",
     "id": 43,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-psg-2/43",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=69ab2ed73ba4a",
+    "iframe_url": null,
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Decryption failed"
+    "error": "HTTP 525"
   },
   {
     "name": "Watch Live Arsenal",
     "slug": "watch-live-arsenal",
     "id": 42,
     "watch_url": "https://mhdtvp.com/livetv/watch/watch-live-arsenal/42",
-    "iframe_url": "https://bsports.moviesflixter.com/tolive/play.php?id=682adcaf6df79",
+    "iframe_url": null,
     "mpd_url": null,
     "kid": null,
     "key": null,
     "stream_url": null,
     "stream_type": null,
-    "error": "Decryption failed"
+    "error": "HTTP 520"
   }
 ]
